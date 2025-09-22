@@ -1,5 +1,5 @@
 # Frameworks_Assignment
-# CORD-19 Data Exploration Project
+# CORD-19 (metadata.csv) Data Exploration Project
 
 This project is a simple Python and Streamlit application for exploring the CORD-19 dataset (COVID-19 research papers).  
 It demonstrates **basic data analysis** and **interactive visualization**.
@@ -18,8 +18,6 @@ It demonstrates **basic data analysis** and **interactive visualization**.
   It provides an interactive interface where you can explore the dataset using sliders, dropdowns, and plots.  
   You run this with Streamlit to launch a local web app in your browser.
 
-- **`cord19.csv`**  
-  The dataset file (or any CSV file you are using for this project).
 
 ---
 
